@@ -1,0 +1,4 @@
+El nombre del cliente está vacío
+El precio base debe ser mayor que cero
+La reserva ya fue confirmada
+La reserva ya fue cancelada
